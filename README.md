@@ -5,36 +5,67 @@
 - ⚡ Movido a café ...
 
 <div align="center">
+<div>
   <a href="https://github.com/alerrandrojanio">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=alerrandrojanio&show_icons=true&theme=ocean_dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alerrandrojanio&layout=compact&langs_count=7&theme=ocean_dark"/>
+  </a>
 </div>
 
-##
-
-<div align="center">
-  <a href="https://www.linkedin.com/in/alerrandrojanio" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href="https://instagram.com/alerrandro._" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href="https://www.youtube.com/channel/UCIOnx27w5BSYg-_w7aVBWwA/videos" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
- 	<a href="https://www.twitch.tv/estebankun" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
+<div>
+<h2>Contato</h2>
+<div style="display: flex; justify-content: center; gap: 1rem">
+  <a href="https://www.linkedin.com/in/alerrandrojanio" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-77499A?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
+  </a> 
+  <a href="https://instagram.com/alerrandro._" target="_blank">
+    <img src="https://img.shields.io/badge/-Instagram-77499A?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
+  </a>
+  <a href="https://www.youtube.com/channel/UCIOnx27w5BSYg-_w7aVBWwA/videos" target="_blank">
+    <img src="https://img.shields.io/badge/YouTube-77499A?style=for-the-badge&logo=youtube&logoColor=white" target="_blank">
+  </a>
+ 	<a href="https://www.twitch.tv/estebankun" target="_blank">
+    <img src="https://img.shields.io/badge/Twitch-77499A?style=for-the-badge&logo=twitch&logoColor=white" target="_blank">
+  </a>
  <!-- <a href="https://discordapp.com/users/EstebanKun#6157" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> -->
-  <a href = "mailto:alerrandro.janio07@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-   
-   ![Snake animation](https://github.com/alerrandrojanio/alerrandrojanio/blob/output/github-contribution-grid-snake.svg)
- 
+  <a href = "mailto:alerrandro.janio07@gmail.com">
+    <img src="https://img.shields.io/badge/-Gmail-77499A?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
+  </a>
+  </div>
 </div>
 
-<!--
-**alerrandrojanio/alerrandrojanio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div>
+<h2>Principais tecnologias</h2>
 
-Here are some ideas to get you started:
+  <h3>Front-End</h3>
+  <div style="display: flex; justify-content: center; gap: 1rem">
+    <img height="40" width="40" src="https://cdn.simpleicons.org/css3/77499A" /> 
+    <img height="40" width="40" src="https://cdn.simpleicons.org/html5/77499A"/> 
+    <img height="40" width="40" src="https://cdn.simpleicons.org/javascript/77499A"/> 
+    <img height="40" width="40" src="https://cdn.simpleicons.org/react/77499A"/> 
+    <img height="40" width="40" src="https://cdn.simpleicons.org/Vue.js/77499A"/>          
+  </div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  <h3>Back-End</h3>
+  <div style="display: flex; justify-content: center; gap: 1rem">
+    <img height="40" width="40" src="https://cdn.simpleicons.org/Node.js/77499A" /> 
+    <img height="40" width="40" src="https://cdn.simpleicons.org/CSharp/77499A"/>           
+  </div>
+
+  <h3>Banco de Dados</h3>
+  <div style="display: flex; justify-content: center; gap: 1rem">
+    <img height="40" width="40" src="https://cdn.simpleicons.org/MySQL/77499A"/> 
+    <img height="40" width="40" src="https://cdn.simpleicons.org/postgresql/77499A"/>   
+    <img height="40" width="40" src="https://cdn.simpleicons.org/MicrosoftSQLServer/77499A"/> 
+  </div>
+
+  <h3>Atualmente Estudando</h3>
+  <div style="display: flex; justify-content: center; gap: 1rem">
+    <img height="40" width="40" src="https://cdn.simpleicons.org/.NET/77499A"/> 
+    <img height="40" width="40" src="https://cdn.simpleicons.org/React/77499A"/>
+  </div>  
+</div>
+
+  ![Snake animation](https://github.com/alerrandrojanio/alerrandrojanio/blob/output/github-contribution-grid-snake.svg)
+
+</div>
