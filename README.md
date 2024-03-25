@@ -1,46 +1,45 @@
-## Olá, meu nome é Alerrandro Janio
+[![MasterHead](https://i.imgur.com/3sElJn0.gif)](https://rishavchanda.io)
 
-- 🔭 Cursando Sistemas de Informação na UFC ...
-- 💻 Técnico em Informática ...
-- ⚛️ Entusiasta de React  ...
-- ⚡ Movido a café ...
+<h1 align="center">Olá, eu sou Alerrandro 👋</h1>
+<h3 align="center">FullStack Developer</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,tailwind,vue,nodejs,dotnet,cs,java)](https://skillicons.dev)
+<img align="right" alt="Coding" width="370" src="https://i.imgur.com/vONEPN7.gif" />
 
-<div>
-  <a href="https://www.linkedin.com/in/alerrandrojanio" target="_blank">
-    <img
-      src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"
-    />
-  </a>
-  <a href="https://www.youtube.com/@alerrandrojanio" target="_blank">
-    <img
-      src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white"
-    />
-  </a>
-  <a href="https://www.instagram.com/alerrandrojanio" target="_blank">
-    <img
-      src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"
-    />
-  </a>
-  <a href="mailto:alerrandro.janio07@gmail.com" target="_blank">
-    <img
-      src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"
-    />
-  </a>
-</div>
+<p align="left">
 
-<hr>
+![Github Views](https://komarev.com/ghpvc/?username=alerrandrojanio&color=blueviolet)
 
-<div align="center">
-  <div>
-    <a href="https://github.com/alerrandrojanio">
-      <img height="180em" src="https://github-readme-stats.vercel.app/api?username=alerrandrojanio&show_icons=true&theme=github_dark&include_all_commits=true" />
-      <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alerrandrojanio&layout=compact&langs_count=6&theme=github_dark" />
-    </a>
-  </div>
-</div>
+</p>
 
-  
+🔭 Cursando **Sistemas de Informação** na UFC
 
+💻 Técnico em **Informática**
 
+📫 Atualmente trabalhando com **.NET**
+
+⚛️ Entusiasta de **React**
+
+⚡ Movido a **café**
+
+<h3 align="left">Conecte-se comigo:</h3>
+<p align="left">
+
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/alerrandrojanio)
+[![Instagram](https://skillicons.dev/icons?i=instagram)](https://instagram.com/alerrandrojanio)
+[![Email](https://skillicons.dev/icons?i=gmail)](mailTo:alerrandro.janio07@gmail.com)
+
+</p>
+
+<h3 align="left">Linguagens e Ferramentas:</h3>
+
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,next,tailwind,vue,nodejs,nest,dotnet,cs,java,postgres,prisma)](https://skillicons.dev)
+
+<p>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=alerrandrojanio&show_icons=true&locale=en&layout=compact&theme=tokyonight" />
+</p>
+<p>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=alerrandrojanio&show_icons=true&locale=en&theme=tokyonight" />
+</p>
+<p>
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=alerrandrojanio&&theme=tokyonight" />
+</p>
