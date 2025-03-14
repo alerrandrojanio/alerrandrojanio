@@ -1,5 +1,3 @@
-[![MasterHead](https://i.imgur.com/3sElJn0.gif)](https://rishavchanda.io)
-
 <h1 align="center">Olá, eu sou Alerrandro 👋</h1>
 <h3 align="center">FullStack Developer</h3>
 
